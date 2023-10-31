@@ -44,58 +44,57 @@ print(ab_data.head())
 
 # A/B Testing to Find the Best Marketing Strategy
 
-* Analyze the relationship between the number of impressions.<br/>
-        [Dataset source: Kaggle](http://kaggle.com/)<br/>
+* Analyze the relationship between the number of impressions.<br/><br/>
+        <img src="https://github.com/ImAnitaYadav07/landingPage_AB_testing/blob/ad280b167ac3ee0114159c4bf7a85c1576d41e0b/img1.png" width="600" height="300"><br/><br/>
         ```
         The control campaign resulted in more impressions according to the amount spent on both campaigns.
         ```
 
 
-* The number of searches performed on the website from both campaigns:<br/>
-         [Dataset source: Kaggle](http://kaggle.com/)<br/>
+* The number of searches performed on the website from both campaigns:<br/><br/>
+        <img src="https://github.com/ImAnitaYadav07/landingPage_AB_testing/blob/ad280b167ac3ee0114159c4bf7a85c1576d41e0b/img2.png"  width="500" height="300"><br/><br/>
          ```
         The test campaign resulted in more searches on the website.
         ```
-* The number of website clicks from both campaigns:<br/>
-         [Dataset source: Kaggle](http://kaggle.com/)<br/>
+* The number of website clicks from both campaigns:<br/><br/>
+       <img src="https://github.com/ImAnitaYadav07/landingPage_AB_testing/blob/ad280b167ac3ee0114159c4bf7a85c1576d41e0b/img3.png"  width="500" height="300"><br/><br/>
          ```
         The test campaign wins in the number of website clicks. 
         ```
-* The amount of content viewed after reaching the website from both campaigns:<br/>
-         [Dataset source: Kaggle](http://kaggle.com/)<br/>
+* The amount of content viewed after reaching the website from both campaigns:<br/><br/>
+     <img src="https://github.com/ImAnitaYadav07/landingPage_AB_testing/blob/ad280b167ac3ee0114159c4bf7a85c1576d41e0b/img4.png" width="500" height="300"><br/><br/>
          ```
         The audience of the control campaign viewed more content than the test campaign.
         Its engagement on the website is higher than the test campaign.
         ```
-* The number of products added to the cart from both campaigns:<br/>
-         [Dataset source: Kaggle](http://kaggle.com/)<br/>
+* The number of products added to the cart from both campaigns:<br/><br/>
+      <img src="https://github.com/ImAnitaYadav07/landingPage_AB_testing/blob/ad280b167ac3ee0114159c4bf7a85c1576d41e0b/img5.png"  width="500" height="300"><br/><br/>
          ```
         Despite low website clicks more products were added to the cart from the control campaign.
         ```
-* The amount spent on both campaigns:<br/>
-         [Dataset source: Kaggle](http://kaggle.com/)<br/>
+* The amount spent on both campaigns:<br/><br/>
+         <img src="https://github.com/ImAnitaYadav07/landingPage_AB_testing/blob/ad280b167ac3ee0114159c4bf7a85c1576d41e0b/img6.png"  width="500" height="300"><br/><br/>
          ```
         The amount spent on the test campaign is higher than the control campaign.But the control campaign resulted in more content views
         and more products in the cart, the control campaign is more efficient than the test campaign.
         ```
-* The purchases made by both campaigns:<br/>
-         [Dataset source: Kaggle](http://kaggle.com/)<br/>
+* The purchases made by both campaigns:<br/><br/>
+      <img src="https://github.com/ImAnitaYadav07/landingPage_AB_testing/blob/ad280b167ac3ee0114159c4bf7a85c1576d41e0b/img7.png"  width="500" height="300"><br/><br/>
          ```
         There’s only a difference of around 1% in the purchases made from both ad campaigns.
         Control campaign resulted in more sales in less amount spent on marketing,So the control campaign is better then test campaign here.
         ```
-* The relationship between the number of website clicks and content viewed from both campaigns:<br/>
-         [Dataset source: Kaggle](http://kaggle.com/)<br/>
+* The relationship between the number of website clicks and content viewed from both campaigns:<br/><br/>
+  <img src="https://github.com/ImAnitaYadav07/landingPage_AB_testing/blob/ad280b167ac3ee0114159c4bf7a85c1576d41e0b/img8.png"  width="600" height="300"><br/><br/>
          ```
         The website clicks are higher in the test campaign, but the engagement from website clicks is higher in the control campaign. So the control campaign wins!
         ```
-* Analyze the relationship between the amount of content viewed and the number of products added to the cart from both campaigns:<br/>
-         [Dataset source: Kaggle](http://kaggle.com/)<br/>
+* Analyze the relationship between the amount of content viewed and the number of products added to the cart from both campaigns:<br/><br/>
+         <img src="https://github.com/ImAnitaYadav07/landingPage_AB_testing/blob/ad280b167ac3ee0114159c4bf7a85c1576d41e0b/img9.png"  width="600" height="300"><br/><br/>
          ```
          The control campaign wins!
         ```
-* The relationship between the number of products added to the cart and the number of sales from both campaigns:<br/>
-         [Dataset source: Kaggle](http://kaggle.com/)<br/>
+* The relationship between the number of products added to the cart and the number of sales from both campaigns:<br/><br/>
          ```
          The control campaign resulted in more sales and more products in the cart,but the conversation rate of the test campaign is higher.
         ```
